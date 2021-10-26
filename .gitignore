@@ -6,4 +6,4 @@
 # misc
 .env
 
-db_mongodb/
+/db_mongodb
